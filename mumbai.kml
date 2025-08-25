@@ -10,10 +10,10 @@
 	<SimpleField name="district" type="string"></SimpleField>
 </Schema>
 <Style id="redStyle">
-  <PolyStyle>
-    <color>ff0000ff</color>
-    <outline>1</outline>
-  </PolyStyle>
+  PolyStyle>
+      <fill>1</fill>
+      <color>330000ff</color> <!-- Transparent Red Fill -->
+    </PolyStyle>
 </Style>
 <Folder><name>maharashtra_district</name>
   <Placemark>
